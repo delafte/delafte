@@ -22,7 +22,7 @@ I'm currently studying CS-engineering👩🏻‍💻 at Univesidad de Chile, Fac
 
 ## What are my current interests? 🤓
 - Artificial Intelligence 🧠
-- Software development 💻
+- Software engineering 💻
 - Cybersecurity 🔒
 - Maths 📐
 - Physics 👩🏻‍🏫
