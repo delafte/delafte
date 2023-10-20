@@ -24,6 +24,7 @@ I'm currently studying CS-engineering👩🏻‍💻 at Univesidad de Chile, Fac
 - Artificial Intelligence 🧠
 - Software engineering 💻
 - Cybersecurity 🔒
+- Robotics 🤖
 - Maths 📐
 - Physics 👩🏻‍🏫
 - Arts 🎨
@@ -33,4 +34,6 @@ I'm currently studying CS-engineering👩🏻‍💻 at Univesidad de Chile, Fac
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala)&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
