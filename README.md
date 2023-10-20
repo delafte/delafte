@@ -23,10 +23,10 @@ I'm currently studying CS-engineering👩🏻‍💻 at Univesidad de Chile, Fac
 ## What are my current interests? 🤓
 - Artificial Intelligence 🧠
 - Software engineering 💻
-- Cybersecurity 🔒
 - Robotics 🤖
+- Internet of Things
 - Maths 📐
-- Physics 👩🏻‍🏫
+- Physics 
 - Arts 🎨
 
 ## Languages i currently work with 
