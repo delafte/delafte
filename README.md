@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 Hi everyone~
 
-I'm currently studying CS-engineering👩🏻‍💻 at Univesidad de Chile, Faculty of Physical Sciences and Mathematics. 
+I'm currently studying CS-engineering👩🏻‍💻 at University of Chile, Faculty of Physical Sciences and Mathematics. 
 
 ## What are my current interests? 🤓
 - Artificial Intelligence 🧠
